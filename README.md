@@ -13,7 +13,7 @@ I have started programming with languages such as C++/C and Java and I became in
 <br>
 
 ## My main technologies are:
-![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black)<br>
+![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![VUEJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)<br>
 ![REACT NATIVE](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
 ![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)<br>
@@ -27,8 +27,7 @@ I have started programming with languages such as C++/C and Java and I became in
 
 ## My Social:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-lavarda-00a776177/)](https://www.linkedin.com/in/vitor-lavarda-00a776177/)<br>
-
+![LINKEDIN](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-lavarda-00a776177/)](https://www.linkedin.com/in/vitor-lavarda-00a776177/)<br>
 
 
 ![](https://komarev.com/ghpvc/?username=Lavarda&color=blue&style=flat)
