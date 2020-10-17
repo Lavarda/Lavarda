@@ -7,19 +7,28 @@
 </table>
 </center> 
 
-### Hi there 👋
+### Welcome to my profile ! 👋
 
-<!--
-**Lavarda/Lavarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have started programming with languages such as C++/C and Java and I became interested in software security engineer area after working with Pen-testing and Defensive security. At the moment I am a Computer Science undergraduate and working as a developer.
 
-Here are some ideas to get you started:
+## My main technologies are:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I´m learning:
+
+![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgress](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+
+## My Social:
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-lavarda-00a776177/)](https://www.linkedin.com/in/vitor-lavarda-00a776177/)
+
+
+
+![](https://komarev.com/ghpvc/?username=Lavarda&color=blue&style=flat)
+
