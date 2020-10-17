@@ -27,7 +27,7 @@ I have started programming with languages such as C++/C and Java and I became in
 
 ## My Social:
 
-![LINKEDIN](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-lavarda-00a776177/)](https://www.linkedin.com/in/vitor-lavarda-00a776177/)<br>
+![[LINKEDIN](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-lavarda-00a776177/)](https://www.linkedin.com/in/vitor-lavarda-00a776177/)<br>
 
 
 ![](https://komarev.com/ghpvc/?username=Lavarda&color=blue&style=flat)
