@@ -1,4 +1,4 @@
-<img src="Capa github.png">
+<img src="github_banner.png">
 <center>
 <table>
     <tr>
