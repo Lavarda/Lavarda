@@ -1,5 +1,3 @@
-<img src="github_banner.png">
-
 ### Welcome to my profile ! 👋
 
 ## My Social:
